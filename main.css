@@ -10,7 +10,23 @@
     width: 375px;
     margin: 0 auto;
   }
-} 
+
+  .basliq1 {
+    width: 52.19px;
+    height: 30.75px;
+    margin: 36px 0px 0px 35px;
+  }
+  .kalendar-ul{
+    margin-top: 44px;
+    display: flex;
+    margin-left: 35px;
+    list-style-type: none;
+  }
+  .kalendar li{
+    margin-left: 4px;
+    b
+  }
+}
 
 /* tablet */
 @media (min-width: 992px) and (max-width: 1279px) {
