@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Noto+Serif+Georgian:wght@400;700&family=Roboto+Slab:wght@400;700&family=Roboto:wght@400;700&display=swap");
+
 * {
   padding: 0;
   margin: 0;
@@ -17,21 +18,25 @@
     height: 30.75px;
     margin: 36px 0px 0px 35px;
   }
+
   .kalendar-ul {
     margin-top: 44px;
     display: flex;
 
     list-style-type: none;
   }
+
   .kalendar li {
     margin-left: 35px;
     font-family: "Roboto";
     margin-left: 10px;
   }
+
   .kalendar-img {
     width: 10.25px;
     height: 9.79px;
   }
+
   .basliq-kino h1 {
     font-family: "Roboto Slab";
     width: 292.63px;
@@ -39,6 +44,7 @@
     margin-left: 35.47px;
     margin-top: 8px;
   }
+
   .basliq-kino p {
     font-family: "Roboto";
     width: 212.4px;
@@ -49,11 +55,13 @@
     font-size: 10px;
     line-height: 150%;
   }
+
   .kino-foto {
     width: 141.66px;
     height: 165.89px;
     margin-left: 201px;
   }
+
   .andrey {
     background: #1e4681;
     border-radius: 2.32986px;
@@ -65,22 +73,26 @@
     font-family: "Roboto";
     font-style: normal;
   }
+
   .andrey p {
     width: 212.4px;
     height: 28.96px;
     padding: 8px 12px 31px 12px;
     line-height: 150%;
   }
+
   .andrey span {
     width: 130.7px;
     height: 21.27px;
     padding: 68px 7px 3px 67px;
     line-height: 130%;
   }
+
   .kurse {
     margin-left: 36px;
     font-style: normal;
   }
+
   .kurse h2 {
     width: 170.08px;
     height: 43.34px;
@@ -89,6 +101,7 @@
     font-weight: bold;
     font-size: 26px;
   }
+
   .kurse p {
     width: 308.47px;
     height: 174.27px;
@@ -98,21 +111,24 @@
     line-height: 150%;
     margin-top: 5px;
   }
+
   .kurse-img {
     width: 146.32px;
     height: 146.78px;
     margin-left: 114px;
     margin-top: 56px;
   }
+
   .kursa-altligi {
     width: 233px;
     display: flex;
     flex-wrap: wrap;
     font-family: "Roboto";
     font-style: normal;
-    margin-left: 35px; 
+    margin-left: 35px;
     margin-top: 59px;
   }
+
   .kursa-altligi h4 {
     width: 69.9px;
     height: 18.17px;
@@ -120,19 +136,227 @@
     font-size: 12px;
 
   }
+
   .kursa-altligi p {
     width: 86px;
     height: 18px;
     font-weight: 400;
     font-size: 10px;
   }
-  .kursa-altligi2{
+
+  .kursa-altligi2 {
     margin-left: 33px;
   }
-  .kursa-altligi3{
+
+  .kursa-altligi3 {
     margin-top: 34px;
   }
+
+  .sec1 h2 {
+    width: 310.8px;
+    height: 43.34px;
+    margin-left: 36px;
+    margin-top: 76px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 101.38%;
+  }
+
+  .format-altligi {
+    display: flex;
+    flex-direction: column;
+    margin-left: 35px;
+    font-family: 'Roboto';
+    font-style: normal;
+    line-height: 130%;
+
+  }
+
+  .format-altligi h4 {
+    color: #1E4681;
+    width: 69.9px;
+    height: 18.17px;
+    font-weight: 700;
+    font-size: 12px;
+    margin-top: 15px;
+  }
+
+  .format-div1 p {
+    width: 180px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 10px;
+  }
+
+  .format-div2 p {
+    width: 165px;
+    height: 51px;
+    font-weight: 400;
+    font-size: 10px;
+  }
+
+  .format-div2 h4 {
+    width: 100px;
+  }
+
+  .format-div3 h4 {
+    margin-top: 20px;
+  }
+
+  .format-div3 p {
+    width: 159px;
+    height: 31px;
+    font-weight: 400;
+    font-size: 10px;
+  }
+
+  .sec2 {
+    margin-left: 36px;
+    font-style: normal;
+  }
+
+  .sec2 h2 {
+    width: 310.8px;
+    height: 43.34px;
+    margin-top: 73px;
+    font-family: 'Roboto Slab';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 101.38%;
+    margin-bottom: 10px;
+  }
+
+  .sec2 li {
+
+    width: 299px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 150%;
+  }
+
+  .sec3 h2 {
+    margin-left: 35px;
+    margin-top: 85px;
+    margin-bottom: 35px;
+    width: 421.7px;
+    height: 43.34px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 101.38%;
+  }
+
+  .sec3-box {
+    width: 185.92px;
+    margin: 24px auto;
+    background: #FFFFFF;
+    box-shadow: 0.465972px 0.465972px 6.98958px rgba(0, 0, 0, 0.25);
+    border-radius: 13.9792px;
+  }
+
+  .sec3-img {
+    width: 185.92px;
+    background: url(photo7);
+  }
+
+  .sec3-img img {
+    width: 100%;
+    ;
+  }
+
+  .sec3-box h4 {
+    width: 170.08px;
+    height: 34px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 130%;
+  }
+
+  .sec3-box p {
+    width: 170.08px;
+    height: 34px;
+    padding-left: 8px;
+    margin-bottom: 10px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 130%;
+  }
+
+  .sec4 {
+    width: 390px;
+    height: 423px;
+    margin-left: -1px;
+    background: #EFEFEF;
+  }
+
+  .sec4 h2 {
+    width: 257px;
+    height: 69px;
+    padding-top: 42px;
+    margin-left: 35px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 101.38%;
+  }
+
+  .sec4-box {
+    width: 308px;
+    margin-left: 35px;
+    margin-top: 35px;
+    background: #FFFFFF;
+    box-shadow: 0.465972px 0.465972px 9.31944px rgba(0, 0, 0, 0.25);
+    border-radius: 13.9792px;
+  }
+
+  .sec4-p1 {
+    width: 266px;
+    padding-left: 21px;
+    padding-top: 18px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 150%;
+  }
+
+  .sec4-foto img {
+    margin-top: 21px;
+    height: 84px;
+    padding-left: 21pox;
+    background: url(1.png);
+  }
+
+  .sec4-box2 {
+    display: flex;
+
+  }
+
+  .sec4-ad {
+    width: 164.49px;
+    margin-left: 13px;
+    margin-top: 39px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 101.38%;
+  }
+  .footer {
+    background-color: black;
+  }
+
 }
+
 
 /* tablet */
 @media (min-width: 992px) and (max-width: 1279px) {
