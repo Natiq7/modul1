@@ -351,8 +351,67 @@
     font-size: 14px;
     line-height: 101.38%;
   }
-  .footer {
-    background-color: black;
+
+
+
+  .sec5 {
+    width: 671px;
+    height: 363.46px;
+    background: #9DC9C8;
+  }
+
+  .sec5-h2 {
+    width: 224px;
+    padding-left: 36px;
+    padding-top: 62px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 101.38%;
+  }
+
+  .sec5-p {
+    margin-left: 36px;
+    margin-top: 23px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+  }
+
+  .sec5-span {
+    width: 240px;
+    font-size: 37px;
+  }
+
+  .sec5-box2 {
+    display: flex;
+    justify-content: last baseline;
+  }
+
+  .box2-box1 {
+    width: 138px;
+    height: 47px;
+    margin-left: 34px;
+    margin-top: 72px;
+    margin-bottom: 62px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 101.38%;
+  }
+    .footer {
+      width: 394px;
+      height: 251px;
+      background-color: black;
+    }
+  .footer-logo img {
+    width: 53px;
+  padding-top: 23px;
+    margin-left: 37.85px;
+ 
   }
 
 }
