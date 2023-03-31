@@ -75,6 +75,7 @@
   }
 
   .andrey p {
+    color: white;
     width: 212.4px;
     height: 28.96px;
     padding: 8px 12px 31px 12px;
@@ -291,7 +292,7 @@
   }
 
   .sec4 {
-    width: 390px;
+    
     height: 423px;
     margin-left: -1px;
     background: #EFEFEF;
@@ -355,7 +356,7 @@
 
 
   .sec5 {
-    width: 671px;
+    width: 100%;
     height: 363.46px;
     background: #9DC9C8;
   }
@@ -402,18 +403,64 @@
     font-size: 10px;
     line-height: 101.38%;
   }
-    .footer {
-      width: 394px;
-      height: 251px;
-      background-color: black;
-    }
-  .footer-logo img {
-    width: 53px;
-  padding-top: 23px;
-    margin-left: 37.85px;
- 
+
+  .footer {
+    width: 394px;
+    height: 251px;
+    background-color: black;
+    
   }
 
+  .footer-logo img {
+    width: 53px;
+    padding-top: 23px;
+    margin-left: 37.85px;
+  }
+
+  .sosial-sebeke {
+    display: flex;
+    width: 15.38px;
+    height: 15.38px;
+    margin-left: 37px;
+    margin-top: 14px;
+    background: url(noroot4.png);
+  }
+
+  .sebeke {
+margin-left: 10px;
+  }
+
+  .elaqe-nom {
+    margin-top: 37px;
+  }
+
+  .elaqe-nom a {
+
+    margin-left: 10.83px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 101.38%;
+  }
+
+  .elaqe-nom img {
+    width: 12.58px;
+    height: 12.58px;
+    margin-left: 37px;
+    background: url(phone_white.png);
+  }
+
+  .il {
+    color: white;
+    margin-left: 37px;
+    margin-top: 48px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 101.38%;
+  }
 }
 
 
