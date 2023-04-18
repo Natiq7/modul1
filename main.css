@@ -455,8 +455,389 @@
 /* tablet */
 @media (min-width: 992px) and (max-width: 1279px) {
   body {
-    width: 834px;
+    width: 992px;
     margin: 0 auto;
+    margin-left: 70px;
+  }
+  .basliq1 {
+    width: 64.87px;
+    margin-top: 22px;
+  }
+
+ 
+  .kalendar-ul {
+    margin-top: 44px;
+    display: flex;
+    list-style-type: none;
+  }
+
+  .kalendar li {
+    font-family: "Roboto";
+    margin-left: 10px;
+  }
+
+  .kalendar-img {
+    width: 10.25px;
+  }
+  .kimg{
+    margin-left: 15px;
+  }
+
+
+  .basliq-kino h1 {
+    width: 363.72px;
+    font-family: 'Roboto Slab';
+    font-weight: 700;
+    font-size: 46px;
+    margin-top: 8px;
+  }
+
+  .basliq-kino p {
+    width: 264px;
+    font-family: 'Roboto';
+    font-size: 12px;
+  }
+
+  .kino-foto {
+    width: 176.07px;
+    margin-left: 515px;
+    margin-top: 0px;
+  }
+  .kino-foto img {
+    width: 100%;
+  }
+
+  .andrey {
+    margin-left: 237px;
+    margin-top: 67px;
+    width: 280.11px;
+    height: 115.83px;
+    background: #1E4681;
+    border-radius: 2.89583px;
+  }
+
+  .andrey p {
+    width: 249.38px;
+    height: 65.45px;
+    color: white;
+    margin-left: 15px;
+    padding-top: 11px;
+  }
+
+  .andrey span {
+    padding-left: 108px;
+    font-family: 'Roboto';
+    font-size: 12px;
+  }
+
+  .kurse h2 {
+    font-family: 'Roboto Slab';
+    font-weight: 700;
+    font-size: 32px;
+    margin-top: 100px;
+  }
+
+  .kurse p {
+    width: 383.41px;
+    font-family: 'Roboto';
+    font-size: 14px;
+    margin-top: 10px;
+  }
+
+  .kurse-img {
+    width: 181.86px;
+    margin-left: 500px;
+  }
+
+  .kurse-img img {
+    width: 100%;
+  }
+  .kursa-altligi {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 164px;
+  }
+
+  .kursa-altligi h4 {
+    width: 86.88px;
+    font-family: 'Roboto';
+    font-size: 15px;
+  }
+
+  .kursa-altligi p {
+    width: 90px;
+    font-family: 'Roboto';
+    font-size: 11px;
+  }
+
+  .kursa-altligi2 {
+    margin-left: 55px;
+  }
+
+  .kursa-altligi3 {
+    margin-left: 53px;
+  }
+
+  .sec1 h2 {
+    margin-top: 134px;
+    font-family: 'Roboto Slab';
+    font-size: 32px;
+  }
+
+  .format-altligi {
+    margin-top: 89px;
+    display: flex;
+    font-family: "Roboto";
+  }
+
+  .format-altligi h4 {
+    font-family: 'Roboto';
+    font-weight: 700;
+    color: #1E4681;
+    
+  }
+
+  .format-div1 p {
+    margin-top: 5px;
+    width: 153px;
+    height: 22px;
+    font-family: 'Roboto';
+    font-size: 11px;
+  }
+
+  .format-div2 p {
+    margin-top: 5px;
+    width: 172px;
+    height: 63px;
+    font-family: 'Roboto';
+    font-size: 11px;
+  }
+  .format-div2 {
+    margin-left: 50px;
+  }
+  .format-div3 p {
+    margin-top: 5px;
+    width: 141.9px;
+    height: 22.59px;  
+    font-family: 'Roboto';
+    font-size: 11px;
+  }
+  .format-div3 {
+    margin-left: 50px;
+  }
+
+  .sec2 h2 {
+    margin-top: 105px;
+    width: 386.3px;
+    font-family: 'Roboto Slab';
+  }
+
+  .sec2 ul {
+    margin-top: 21px;
+  }
+  .sec2 li {
+    margin-top: 5px;
+    width: 383.41px;
+    font-family: 'Roboto';
+    font-size: 14px;
+  }
+
+  .sec3 h2 {
+    margin-top: 143px;
+    width: 524.15px;
+    font-family: 'Roboto Slab';
+    font-size: 32px;
+  }
+
+  .sec3-div{
+    width: 100%;
+    margin-left: -37px;
+    margin-top: 55px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .sec3-box {
+    margin-left: 21px;
+    margin-top: 23px;
+    width: 231.09px;
+    height: 189.97px;
+    background: #FFFFFF;
+    box-shadow: 0.579167px 0.579167px 8.6875px rgba(0, 0, 0, 0.25);
+    border-radius: 17.375px;
+  }
+
+  .sec3-img {
+    width: 231.09px;
+  }
+
+  .sec3-img img {
+    width: 100%;
+  }
+
+  .sec3-box h4 {
+    margin-left: 11px;
+    margin-top: 4px;
+    width: 211.4px;
+    font-family: 'Roboto';
+    font-size: 17px;
+  }
+
+  .sec3-box p {
+    margin-left: 11px;
+    margin-top: 10px;
+    width: 211.4px;
+    font-family: 'Roboto';
+    font-size: 14px;
+  }
+
+  
+  .sec4 {
+    margin-top: 65px;
+    width: 834px;
+    height: 451.75px;
+    background: #EFEFEF;
+  }
+
+  .sec4 h2 {
+    padding-top: 52px;
+    margin-left: 70px;
+    width: 571.64px;
+    font-family: 'Roboto Slab';
+    font-size: 32px;
+  }
+
+  .sec4-box {
+    margin-top: 19px;
+    margin-left: 72px;
+    width: 458.12px;
+    height: 261.2px;
+    background: #FFFFFF;
+    box-shadow: 0.579167px 0.579167px 11.5833px rgba(0, 0, 0, 0.25);
+    border-radius: 17.375px;
+  }
+
+  .sec4-p1 {
+    padding-left: 26px;
+    padding-top: 23px;
+    font-family: 'Roboto';
+    font-size: 12px;
+  
+  }
+
+
+
+  .sec4-foto img {
+    height: 97.88px;
+    margin-left: 15px;
+    margin-top: 5px;
+  }
+
+  .sec4-box2 {
+    display: flex;
+  }
+
+  .sec4-ad {
+    margin-left: 17px;
+    margin-top: 28px;
+    width: 204.45px;
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+  }
+
+  .sec5 {
+    width: 834px;
+    height: 451.75px;
+    background: #9dc9c8;
+  }
+
+  .sec5-h2 {
+    padding-left: 70px;
+    padding-top: 103px;
+    width: 525.88px;
+    font-family: 'Roboto Slab';
+    font-size: 32px;
+  }
+
+  .sec5-p {
+    padding-left: 70px;
+    margin-top: 31px;
+    font-family: 'Roboto';
+    font-size: 14px;
+  }
+
+  .sec5-span {
+    width: 278.58px;
+    font-size: 46px;
+  }
+
+  .sec5-box2 {
+    margin-left: 70px;
+    margin-top: 30px;
+    display: flex;
+    
+  }
+
+  .box2-box1 {
+    width: 170.28px;
+    font-family: 'Roboto';
+    font-size: 14px;
+  }
+
+ .u{
+    margin-left: 40px;
+  }
+  
+  .footer {
+    padding-left: 70px;
+    width: 834px;
+    height: 225.88px;
+    background: #000000;
+  }
+
+  .footer-logo img {
+    margin-top: 28px;
+    width: 66.6px;
+    height: 39px;
+  }
+
+  .sosial-sebeke {
+    display: flex;
+    width: 19.11px;
+    height: 19px;
+    margin-top: 17px;
+  }
+
+  .sebeke {
+    margin-left: 20px;
+  }
+
+  .elaqe-nom{
+    margin-left: 456px;
+    margin-top: -55px;
+  }
+
+  .elaqe-nom a {
+    color: white;
+    width: 133px;
+    font-family: 'Roboto';
+    font-size: 14px;
+  }
+
+  .elaqe-nom img {
+    margin-top: 5px;
+    width: 16px;
+    height: 16px;
+    margin-right: 22px;
+  }
+
+  .il {
+    width: 133px;
+    margin-top: 84px;
+    font-family: 'Roboto';
+    font-size: 10px;
+    color: #FFFFFF;
   }
 }
 
@@ -665,6 +1046,7 @@
   }
 
   .sec3-div{
+    width: 100%;
     margin-left: -37px;
     margin-top: 95px;
     display: flex;
@@ -774,36 +1156,82 @@
   }
 
   .sec5-p {
-    margin-left: 36px;
-    margin-top: 23px;
-    font-family: "Roboto";
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
+    padding-left: 122px;
+    margin-top: 54px;
+    font-family: 'Roboto';
+    font-size: 25px;
   }
 
   .sec5-span {
-    width: 240px;
-    font-size: 37px;
+    width: 481px;
+    font-size: 80px;
   }
 
   .sec5-box2 {
+    margin-left: 122px;
+    margin-top: 100px;
     display: flex;
-    justify-content: last baseline;
+    
   }
 
   .box2-box1 {
-    width: 138px;
-    height: 47px;
-    margin-left: 34px;
-    margin-top: 72px;
-    margin-bottom: 62px;
-    font-family: "Roboto";
-    font-style: normal;
-    font-weight: 400;
-    font-size: 10px;
-    line-height: 101.38%;
+    width: 294px;
+    height: 32px;
+    font-family: 'Roboto';
+    font-size: 25px;
   }
 
+ .u{
+    margin-left: 70px;
+  }
+  
+  .footer {
+    padding-left: 122px;
+    width: 1440px;
+    height: 390px;
+    background-color: black;
+  }
+
+  .footer-logo img {
+    margin-top: 50px;
+    width: 115px;
+    height: 68px;
+  }
+
+  .sosial-sebeke {
+    display: flex;
+    width: 33px;
+    margin-top: 30px;
+  }
+
+  .sebeke {
+    margin-left: 20px;
+  }
+
+  .elaqe-nom{
+    margin-left: 788px;
+    margin-top: -55px;
+  }
+
+  .elaqe-nom a {
+    color: white;
+    width: 230px;
+    font-family: 'Roboto';
+    font-size: 25px;
+  }
+
+  .elaqe-nom img {
+    margin-top: 5px;
+    width: 27px;
+    height: 27px;
+    margin-right: 22px;
+  }
+
+  .il {
+    width: 230px;
+    margin-top: 140px;
+    font-family: 'Roboto';
+    font-size: 18px;
+    color: #FFFFFF;
+  }
 }
-/* 659 sec3
